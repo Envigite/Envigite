@@ -5,7 +5,7 @@
 
 - 🌱 Estoy aprendiendo **desarrollo Frontend**, mejorando mis habilidades en **Kotlin, React y TypeScript.**
 
-- 👨‍💻 Todos mis proyectos están disponibles en [https://github.com/Envigite](https://github.com/Envigite) o en mi página web [envigite.com](https://d2t4pavelkvz7k.cloudfront.net/)
+- 👨‍💻 Todos mis proyectos están disponibles en [https://github.com/Envigite](https://github.com/Envigite) o en mi página web [envigite.com](https://www.envigite.com/)
 
 - 📫 Puedes contactarme en **benjacontrerasma@yahoo.com | benacontrerasma@gmail.com**
 
@@ -13,7 +13,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/benja-envigite" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="benja-envigite" height="30" width="40" /></a>
 <a href="https://instagram.com/envigite73" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="envigite73" height="30" width="40" /></a>
-<a href="https://d2t4pavelkvz7k.cloudfront.net/" target="blank"><img align="center" src="https://github.com/Envigite/Envigite_web/blob/main/app/favicon.ico" alt="envigite73" height="40" width="40" /></a>
+<a href="https://www.envigite.com/" target="blank"><img align="center" src="https://github.com/Envigite/Envigite_web/blob/main/app/favicon.ico" alt="envigite73" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Lenguajes y herramientas:</h3>
