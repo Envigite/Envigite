@@ -26,7 +26,7 @@ Un E-commerce Full Stack completo inspirado en Minecraft, con arquitectura moder
 <p align="left">
   <a href="https://linkedin.com/in/benja-envigite" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="benja-envigite" height="30" width="40" /></a>
   <a href="https://instagram.com/envigite73" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="envigite73" height="30" width="40" /></a>
-  <a href="https://www.envigite.com/" target="_blank"><img align="center" src="https://github.com/Envigite/Envigite_web/blob/main/app/favicon.ico" alt="envigite73" height="40" width="40" /></a>
+  <a href="https://www.envigite.com/" target="_blank"><img align="center" src="https://img.icons8.com/?size=100&id=QiwSMfboPt2R&format=png&color=000000" alt="envigite73" height="40" width="40" /></a>
   <a href="mailto:benjacontrerasma@yahoo.com" target="_blank"><img align="center" src="https://www.svgrepo.com/show/262846/email-mail.svg" alt="email" height="30" width="40" /></a>
 </p>
 
